@@ -1,0 +1,12 @@
+Securing Academic Web APIs with OAuth2 and JSON Web Tokens
+Student: STU051 | Course: CRS04
+=================================================================
+Educational REST APIs transmit sensitive grade and identity data requiring
+robust authentication. We designed and implemented an OAuth2.0
+authorization server with PKCE and JWT access tokens.
+Role-based access control (RBAC) was enforced across student, lecturer, and
+administrator endpoints. Cryptographic signing using RS256 prevented token
+forgery and tampered claims.
+Penetration testing using OWASP ZAP identified and mitigated
+vulnerabilities including Cross-Origin Resource Sharing (CORS)
+misconfigurations and SQL injection risks.

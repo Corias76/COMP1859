@@ -1,0 +1,5 @@
+Title: Student Email: Attendance Record Correction Notice for COMP1649
+Student ID: STU007
+Course ID: CRS03
+
+Dear Academic Affairs Office, I noticed that my attendance for COMP1649 on October 14th was marked absent on the student portal. I was present in Room 304 and signed the physical attendance slip. Could you please correct my attendance record? Student ID: STU007.

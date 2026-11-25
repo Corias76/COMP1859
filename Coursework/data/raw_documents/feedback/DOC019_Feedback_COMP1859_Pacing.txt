@@ -1,0 +1,5 @@
+Title: Course Evaluation Feedback: Lecture Pacing and Lab Sessions for COMP1859
+Student ID: STU005
+Course ID: CRS01
+
+Overall the Information Retrieval lectures by Dr. Ayodeji Ibitoye are very inspiring and clear. The practical labs on inverted index construction and BM25 ranking gave strong hands-on intuition. However, more guidance on vector embeddings and neural IR search models would be greatly appreciated for the final coursework prototype.

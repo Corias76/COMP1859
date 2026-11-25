@@ -1,0 +1,5 @@
+Title: Student Email: Inquiry Regarding Master Thesis Supervision in Information Retrieval
+Student ID: STU005
+Course ID: CRS01
+
+Dear Dr. Ayodeji Ibitoye, Having enjoyed the COMP1859 coursework on search engine architecture and hybrid retrieval, I am eager to pursue my final year thesis on Retrieval-Augmented Generation (RAG) and dense vector indexing under your supervision. Are you available for a brief meeting next Tuesday?

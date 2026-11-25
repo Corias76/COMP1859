@@ -1,0 +1,12 @@
+Course Syllabus: COMP1859 Information Retrieval
+Department: Computer Science | Course: CRS01
+=================================================================
+Course Overview: COMP1859 covers modern Information Retrieval systems,
+algorithms, and practical applications. Students explore indexing, boolean
+search, vector space models, and neural semantic retrieval.
+Core Topics: Inverted index construction, tokenization, stemming, TF-IDF
+weighting, Okapi BM25 ranking model, evaluation metrics (Precision, Recall,
+MAP, NDCG), and structured vs unstructured data integration.
+Assessment Criteria: Individual coursework prototype design and evaluation
+(100 percent). Students develop an academic search system handling diverse
+educational datasets.

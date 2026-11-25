@@ -1,0 +1,5 @@
+Title: Student Email: Query on Algorithms Exam Format and Dynamic Programming Scope
+Student ID: STU058
+Course ID: CRS05
+
+Dear Dr. Marcus Vance, For the upcoming COMP1804 examination, will students be expected to write complete Python implementations for dynamic programming memoization, or will pseudocode solutions be accepted? Thank you for your guidance.

@@ -1,0 +1,59 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 875 >>
+stream
+BT
+/F1 16 Tf
+50 730 Td
+(Empirical Profiling of Sorting Algorithms on Large Student Registries) Tj
+/F1 11 Tf
+0 -22 Td
+(Student: STU063 | Course: CRS05) Tj
+0 -20 Td
+(=================================================================) Tj
+0 -20 Td
+(This study provides empirical time and space profiling of Quicksort,) Tj
+0 -14 Td
+(Mergesort, Heapsort, and Timsort when ranking academic cohorts by grade) Tj
+0 -14 Td
+(point average and student IDs.) Tj
+0 -20 Td
+(Python native Timsort exhibited exceptional stability and adaptive) Tj
+0 -14 Td
+(performance on partially ordered datasets, completing in O\(n\) time on) Tj
+0 -14 Td
+(pre-sorted departmental lists.) Tj
+0 -20 Td
+(Memory consumption analysis highlighted Mergesort auxiliary buffer) Tj
+0 -14 Td
+(overhead, while In-place Quicksort demonstrated optimal L1/L2 cache) Tj
+0 -14 Td
+(locality on modern multi-core CPUs.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1237
+%%EOF

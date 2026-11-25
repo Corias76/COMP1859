@@ -1,0 +1,11 @@
+Course Syllabus: COMP1822 Cloud Computing & DevOps
+Department: Data Science | Course: CRS06
+=================================================================
+Course Overview: COMP1822 teaches modern cloud infrastructure design,
+containerization, and continuous integration/continuous deployment (CI/CD)
+pipelines.
+Core Topics: Cloud service models (IaaS, PaaS, Serverless), Docker
+containers, Kubernetes orchestration, Infrastructure as Code (Terraform),
+and automated testing pipelines.
+Assessment Criteria: Cloud architecture implementation coursework (60
+percent) and DevOps pipeline defense (40 percent).

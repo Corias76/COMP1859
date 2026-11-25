@@ -1,0 +1,12 @@
+Benchmarking SQL versus NoSQL MongoDB for Unstructured Student Feedback
+Student: STU039 | Course: CRS03
+=================================================================
+Storing polymorphic student feedback forms presents schema agility
+challenges. This investigation compares relational PostgreSQL JSONB columns
+with MongoDB document stores across read and write workloads.
+MongoDB demonstrated 22 percent faster document insertion throughput for
+schema-less survey forms containing nested qualitative feedback and dynamic
+Likert scales.
+However, complex multi-table aggregations combining student GPA with
+feedback sentiment required twice as much compute in MongoDB aggregation
+pipelines compared to optimized SQL joins.

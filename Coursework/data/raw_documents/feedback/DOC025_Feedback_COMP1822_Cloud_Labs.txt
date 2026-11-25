@@ -1,0 +1,5 @@
+Title: Course Evaluation Feedback: Request for Additional Docker and Kubernetes Labs
+Student ID: STU067
+Course ID: CRS06
+
+The Cloud Computing & DevOps module provides critical employability skills. We would love to see more hands-on workshop hours dedicated to writing custom Helm charts and debugging production ingress controllers in Kubernetes.

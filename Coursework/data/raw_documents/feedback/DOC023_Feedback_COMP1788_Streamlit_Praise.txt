@@ -1,0 +1,5 @@
+Title: Course Evaluation Feedback: Commendation for Interactive Streamlit Demos
+Student ID: STU025
+Course ID: CRS02
+
+The interactive Streamlit prototypes shown during lecture hours made complex deep learning concepts and confusion matrices tangible. Seeing real-time predictions helped our study group immensely when designing our own neural network classification pipelines.

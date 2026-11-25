@@ -1,0 +1,10 @@
+Course Syllabus: COMP1649 Database Design & Management
+Department: Software Engineering | Course: CRS03
+=================================================================
+Course Overview: COMP1649 provides comprehensive training in relational
+database design, query optimization, and enterprise transaction management.
+Core Topics: Entity-Relationship modeling, relational algebra, SQL DDL/DML,
+normalization forms (1NF to BCNF), indexing structures (B-Tree, Hash), and
+ACID transaction concurrency.
+Assessment Criteria: Relational database implementation project (60
+percent) and theoretical examination (40 percent).

@@ -1,0 +1,5 @@
+Title: Course Evaluation Feedback: Feedback on Web Programming Framework Assignment
+Student ID: STU044
+Course ID: CRS04
+
+The modern tech stack chosen (FastAPI and React) is very up-to-date and directly relevant to industry jobs. The requirement to integrate JWT authentication and test with OWASP standards added strong professional rigor to our portfolio.

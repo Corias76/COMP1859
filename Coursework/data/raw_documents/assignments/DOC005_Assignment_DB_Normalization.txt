@@ -1,0 +1,13 @@
+Relational Database Normalization and B-Tree Index Optimization
+Student: STU031 | Course: CRS03
+=================================================================
+This project assesses schema normalization up to Boyce-Codd Normal Form
+(BCNF) in the context of high-throughput Student Information Systems (SIS).
+Decomposing unnormalized transaction tables eliminated update anomalies.
+We benchmarked clustered versus non-clustered B-Tree indices on foreign key
+join columns. Query execution plans in PostgreSQL demonstrated an 85
+percent reduction in disk page I/O operations for student enrollment
+queries.
+Trade-offs between normalization integrity and read latency were evaluated,
+identifying strategic denormalization points for read-intensive analytics
+dashboards.

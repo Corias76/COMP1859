@@ -1,0 +1,14 @@
+Deep Convolutional Neural Networks for Educational Diagram Recognition
+Student: STU025 | Course: CRS02
+=================================================================
+Automated digitisation of hand-drawn diagrams from lecture whiteboards
+improves accessibility for distance learning. This study fine-tunes
+ResNet-50 and MobileNet architectures on a custom dataset of flowcharts and
+UML diagrams.
+Data augmentation techniques, including random affine transformations and
+elastic distortions, mitigated overfitting on small training samples.
+MobileNet achieved 92.4 percent top-1 classification accuracy with an
+inference latency of 18ms per image.
+We discuss future deployment as an edge service integrated into the
+SmartEdU virtual learning environment for real-time lecture slide
+synthesis.

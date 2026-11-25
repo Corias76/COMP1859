@@ -1,0 +1,12 @@
+High-Availability Deployment of Moodle LMS on Kubernetes Clusters
+Student: STU067 | Course: CRS06
+=================================================================
+Virtual learning environments experience intense traffic spikes during
+assignment submission deadlines. We architected an auto-scaling Kubernetes
+cluster for Moodle LMS on bare-metal servers.
+Horizontal Pod Autoscalers (HPA) dynamically scaled web worker pods based
+on CPU and memory thresholds, while NFS shared storage handled distributed
+course uploads.
+Chaos engineering experiments with Chaos Mesh proved cluster self-healing
+capabilities, maintaining zero-downtime service during worker node
+disconnections.

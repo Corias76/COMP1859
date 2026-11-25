@@ -1,0 +1,59 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 925 >>
+stream
+BT
+/F1 16 Tf
+50 730 Td
+(Modern Reactive Web Portal Architecture using React and FastAPI) Tj
+/F1 11 Tf
+0 -22 Td
+(Student: STU044 | Course: CRS04) Tj
+0 -20 Td
+(=================================================================) Tj
+0 -20 Td
+(This paper introduces a single-page application \(SPA\) architecture for) Tj
+0 -14 Td
+(university course enrollment. The frontend utilizes React with TypeScript,) Tj
+0 -14 Td
+(Redux Toolkit, and Tailwind CSS for responsive user interfaces.) Tj
+0 -20 Td
+(The backend is developed with Python FastAPI, leveraging asynchronous event) Tj
+0 -14 Td
+(loops and Pydantic validation for high-concurrency request handling during) Tj
+0 -14 Td
+(peak registration periods.) Tj
+0 -20 Td
+(Lighthouse performance audits recorded a 98 Performance score, with First) Tj
+0 -14 Td
+(Contentful Paint \(FCP\) under 0.8 seconds and strict adherence to WCAG 2.1) Tj
+0 -14 Td
+(AA accessibility guidelines.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1287
+%%EOF

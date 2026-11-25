@@ -1,0 +1,14 @@
+Implementing Inverted Index for Academic Information Retrieval
+Student: STU005 | Course: CRS01
+=================================================================
+This report details the implementation of an inverted index data structure
+for academic document retrieval. An inverted index maps vocabulary terms to
+postings lists containing document IDs and term frequencies.
+We benchmarked document tokenization, Porter stemming, and stopword
+filtering across an educational corpus. Stopword removal reduced dictionary
+size by 38 percent while maintaining vocabulary coverage for
+domain-specific queries.
+Query processing was evaluated using Boolean conjunction (AND) and
+disjunction (OR). Time complexity of posting list intersections was
+optimized using skip pointers, resulting in query latency below 12
+milliseconds.

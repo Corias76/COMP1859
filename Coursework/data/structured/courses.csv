@@ -1,0 +1,7 @@
+course_id,course_code,course_name,credits,instructor,department
+CRS01,COMP1859,Information Retrieval,15,Dr. Ayodeji Ibitoye,Computer Science
+CRS02,COMP1788,Machine Learning Systems,15,Dr. Sarah Jenkins,Artificial Intelligence
+CRS03,COMP1649,Database Design & Management,15,Prof. Alan Turing,Software Engineering
+CRS04,COMP1811,Web Programming & Frameworks,15,Dr. Elena Rostova,Software Engineering
+CRS05,COMP1804,Algorithms & Data Structures,15,Dr. Marcus Vance,Computer Science
+CRS06,COMP1822,Cloud Computing & DevOps,15,Prof. David Patterson,Data Science

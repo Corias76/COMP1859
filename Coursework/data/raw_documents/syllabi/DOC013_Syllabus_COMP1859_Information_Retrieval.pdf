@@ -1,0 +1,59 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 945 >>
+stream
+BT
+/F1 16 Tf
+50 730 Td
+(Course Syllabus: COMP1859 Information Retrieval) Tj
+/F1 11 Tf
+0 -22 Td
+(Department: Computer Science | Course: CRS01) Tj
+0 -20 Td
+(=================================================================) Tj
+0 -20 Td
+(Course Overview: COMP1859 covers modern Information Retrieval systems,) Tj
+0 -14 Td
+(algorithms, and practical applications. Students explore indexing, boolean) Tj
+0 -14 Td
+(search, vector space models, and neural semantic retrieval.) Tj
+0 -20 Td
+(Core Topics: Inverted index construction, tokenization, stemming, TF-IDF) Tj
+0 -14 Td
+(weighting, Okapi BM25 ranking model, evaluation metrics \(Precision, Recall,) Tj
+0 -14 Td
+(MAP, NDCG\), and structured vs unstructured data integration.) Tj
+0 -20 Td
+(Assessment Criteria: Individual coursework prototype design and evaluation) Tj
+0 -14 Td
+(\(100 percent\). Students develop an academic search system handling diverse) Tj
+0 -14 Td
+(educational datasets.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1307
+%%EOF

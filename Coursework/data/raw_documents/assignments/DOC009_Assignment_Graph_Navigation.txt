@@ -1,0 +1,12 @@
+Campus Navigation Optimization using Dijkstra and A-Star Graph Algorithms
+Student: STU058 | Course: CRS05
+=================================================================
+Navigating multi-building university campuses efficiently between
+consecutive lectures is modeled as a weighted shortest path problem. We
+constructed a topological graph of campus pathways and elevators.
+A-Star search with Euclidean distance heuristics reduced explored state
+vertices by 64 percent compared to standard Dijkstra algorithm during peak
+transition times.
+We incorporated wheelchair accessibility constraints by dynamically
+weighting elevation gain and stair obstacles, generating accessible route
+recommendations.

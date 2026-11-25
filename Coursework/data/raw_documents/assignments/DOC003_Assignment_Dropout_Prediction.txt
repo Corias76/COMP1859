@@ -1,0 +1,12 @@
+Supervised Learning Models for Student Academic Dropout Prediction
+Student: STU018 | Course: CRS02
+=================================================================
+Predicting academic attrition early allows proactive educational
+interventions. We trained Random Forest, Logistic Regression, and Support
+Vector Machines on demographic, attendance, and LMS engagement data.
+Feature importance analysis revealed that LMS login frequency during the
+first four weeks and attendance rate were the most decisive predictive
+indicators of semester completion.
+The Random Forest classifier achieved an ROC-AUC of 0.89 and an F1-score of
+0.84 on held-out test data, outperforming standard baseline logistic
+regression.

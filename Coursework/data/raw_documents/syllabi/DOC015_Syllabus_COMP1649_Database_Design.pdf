@@ -1,0 +1,55 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 792 >>
+stream
+BT
+/F1 16 Tf
+50 730 Td
+(Course Syllabus: COMP1649 Database Design & Management) Tj
+/F1 11 Tf
+0 -22 Td
+(Department: Software Engineering | Course: CRS03) Tj
+0 -20 Td
+(=================================================================) Tj
+0 -20 Td
+(Course Overview: COMP1649 provides comprehensive training in relational) Tj
+0 -14 Td
+(database design, query optimization, and enterprise transaction management.) Tj
+0 -20 Td
+(Core Topics: Entity-Relationship modeling, relational algebra, SQL DDL/DML,) Tj
+0 -14 Td
+(normalization forms \(1NF to BCNF\), indexing structures \(B-Tree, Hash\), and) Tj
+0 -14 Td
+(ACID transaction concurrency.) Tj
+0 -20 Td
+(Assessment Criteria: Relational database implementation project \(60) Tj
+0 -14 Td
+(percent\) and theoretical examination \(40 percent\).) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1154
+%%EOF

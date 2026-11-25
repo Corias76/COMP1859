@@ -1,0 +1,11 @@
+Course Syllabus: COMP1788 Machine Learning Systems
+Department: Artificial Intelligence | Course: CRS02
+=================================================================
+Course Overview: COMP1788 introduces principles and design patterns for
+engineering scalable machine learning systems in production environments.
+Core Topics: Supervised and unsupervised learning, regression,
+classification, deep neural networks, model deployment, monitoring data
+drift, and pipeline automation.
+Assessment Criteria: Coursework practical lab projects (50 percent) and
+final system evaluation exam (50 percent). Emphasizes ethical AI and bias
+mitigation.

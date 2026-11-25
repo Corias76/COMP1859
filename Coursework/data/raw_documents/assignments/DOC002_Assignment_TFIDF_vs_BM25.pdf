@@ -1,0 +1,61 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 988 >>
+stream
+BT
+/F1 16 Tf
+50 730 Td
+(Comparative Evaluation of TF-IDF versus BM25 on Course Corpora) Tj
+/F1 11 Tf
+0 -22 Td
+(Student: STU012 | Course: CRS01) Tj
+0 -20 Td
+(=================================================================) Tj
+0 -20 Td
+(In this coursework assignment, we empirically evaluate the performance of) Tj
+0 -14 Td
+(TF-IDF against Okapi BM25 scoring functions. The benchmark dataset consists) Tj
+0 -14 Td
+(of academic papers and lecture transcripts.) Tj
+0 -20 Td
+(BM25 demonstrated superior ranking accuracy with Mean Average Precision) Tj
+0 -14 Td
+(\(MAP\) of 0.82 compared to 0.74 for standard TF-IDF. This difference stems) Tj
+0 -14 Td
+(from BM25 term frequency saturation and document length normalization) Tj
+0 -14 Td
+(\(parameters k1=1.5, b=0.75\).) Tj
+0 -20 Td
+(Furthermore, we analyzed query drift in pseudo-relevance feedback and) Tj
+0 -14 Td
+(observed that Rocchio algorithm expansion improved recall by 14 percent for) Tj
+0 -14 Td
+(short conversational queries.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1350
+%%EOF

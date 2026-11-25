@@ -1,0 +1,59 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 894 >>
+stream
+BT
+/F1 16 Tf
+50 730 Td
+(Securing Academic Web APIs with OAuth2 and JSON Web Tokens) Tj
+/F1 11 Tf
+0 -22 Td
+(Student: STU051 | Course: CRS04) Tj
+0 -20 Td
+(=================================================================) Tj
+0 -20 Td
+(Educational REST APIs transmit sensitive grade and identity data requiring) Tj
+0 -14 Td
+(robust authentication. We designed and implemented an OAuth2.0) Tj
+0 -14 Td
+(authorization server with PKCE and JWT access tokens.) Tj
+0 -20 Td
+(Role-based access control \(RBAC\) was enforced across student, lecturer, and) Tj
+0 -14 Td
+(administrator endpoints. Cryptographic signing using RS256 prevented token) Tj
+0 -14 Td
+(forgery and tampered claims.) Tj
+0 -20 Td
+(Penetration testing using OWASP ZAP identified and mitigated) Tj
+0 -14 Td
+(vulnerabilities including Cross-Origin Resource Sharing \(CORS\)) Tj
+0 -14 Td
+(misconfigurations and SQL injection risks.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1256
+%%EOF

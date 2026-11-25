@@ -1,0 +1,10 @@
+Course Syllabus: COMP1804 Algorithms & Data Structures
+Department: Computer Science | Course: CRS05
+=================================================================
+Course Overview: COMP1804 focuses on algorithmic problem solving,
+asymptotic complexity analysis, and fundamental abstract data types.
+Core Topics: Big-O notation, recursion, divide-and-conquer, graph traversal
+(BFS/DFS), shortest path algorithms (Dijkstra/A*), dynamic programming, and
+greedy algorithms.
+Assessment Criteria: Mid-term algorithmic coding challenge (40 percent) and
+final examination (60 percent).

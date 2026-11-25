@@ -1,0 +1,11 @@
+Course Syllabus: COMP1811 Web Programming & Frameworks
+Department: Software Engineering | Course: CRS04
+=================================================================
+Course Overview: COMP1811 equips students with modern full-stack web
+engineering skills using contemporary frontend frameworks and asynchronous
+backends.
+Core Topics: HTML5, CSS3, modern JavaScript/TypeScript, React state
+management, RESTful API design, FastAPI backend integration, authentication
+(JWT/OAuth2), and web accessibility standards.
+Assessment Criteria: Full-stack web application coursework (70 percent) and
+technical code review presentation (30 percent).

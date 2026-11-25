@@ -1,0 +1,13 @@
+Comparative Evaluation of TF-IDF versus BM25 on Course Corpora
+Student: STU012 | Course: CRS01
+=================================================================
+In this coursework assignment, we empirically evaluate the performance of
+TF-IDF against Okapi BM25 scoring functions. The benchmark dataset consists
+of academic papers and lecture transcripts.
+BM25 demonstrated superior ranking accuracy with Mean Average Precision
+(MAP) of 0.82 compared to 0.74 for standard TF-IDF. This difference stems
+from BM25 term frequency saturation and document length normalization
+(parameters k1=1.5, b=0.75).
+Furthermore, we analyzed query drift in pseudo-relevance feedback and
+observed that Rocchio algorithm expansion improved recall by 14 percent for
+short conversational queries.

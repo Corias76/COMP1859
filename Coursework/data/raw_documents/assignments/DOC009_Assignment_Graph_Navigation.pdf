@@ -1,0 +1,59 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 894 >>
+stream
+BT
+/F1 16 Tf
+50 730 Td
+(Campus Navigation Optimization using Dijkstra and A-Star Graph Algorithms) Tj
+/F1 11 Tf
+0 -22 Td
+(Student: STU058 | Course: CRS05) Tj
+0 -20 Td
+(=================================================================) Tj
+0 -20 Td
+(Navigating multi-building university campuses efficiently between) Tj
+0 -14 Td
+(consecutive lectures is modeled as a weighted shortest path problem. We) Tj
+0 -14 Td
+(constructed a topological graph of campus pathways and elevators.) Tj
+0 -20 Td
+(A-Star search with Euclidean distance heuristics reduced explored state) Tj
+0 -14 Td
+(vertices by 64 percent compared to standard Dijkstra algorithm during peak) Tj
+0 -14 Td
+(transition times.) Tj
+0 -20 Td
+(We incorporated wheelchair accessibility constraints by dynamically) Tj
+0 -14 Td
+(weighting elevation gain and stair obstacles, generating accessible route) Tj
+0 -14 Td
+(recommendations.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1256
+%%EOF

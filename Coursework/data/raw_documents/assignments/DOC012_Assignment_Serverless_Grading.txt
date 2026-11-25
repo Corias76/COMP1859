@@ -1,0 +1,12 @@
+Serverless Architecture for Automated Assignment Grading with AWS Lambda
+Student: STU070 | Course: CRS06
+=================================================================
+Manual grading of introductory programming assignments creates severe
+assessment bottlenecks. We created an asynchronous serverless grading
+pipeline using AWS Lambda, S3, and DynamoDB.
+Student code submissions trigger secure Docker container sandboxes
+executing test suites and static analysis linters (Flake8, Pylint) with
+isolated execution timeouts.
+The serverless solution reduced infrastructure costs by 70 percent compared
+to continuously running virtual machines, processing 500 concurrent
+submissions in under two minutes.

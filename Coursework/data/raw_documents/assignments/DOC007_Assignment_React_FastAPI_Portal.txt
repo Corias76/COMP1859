@@ -1,0 +1,12 @@
+Modern Reactive Web Portal Architecture using React and FastAPI
+Student: STU044 | Course: CRS04
+=================================================================
+This paper introduces a single-page application (SPA) architecture for
+university course enrollment. The frontend utilizes React with TypeScript,
+Redux Toolkit, and Tailwind CSS for responsive user interfaces.
+The backend is developed with Python FastAPI, leveraging asynchronous event
+loops and Pydantic validation for high-concurrency request handling during
+peak registration periods.
+Lighthouse performance audits recorded a 98 Performance score, with First
+Contentful Paint (FCP) under 0.8 seconds and strict adherence to WCAG 2.1
+AA accessibility guidelines.

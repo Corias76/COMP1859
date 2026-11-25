@@ -1,0 +1,5 @@
+Title: Student Email: Clarification on Database Normalization Rubric
+Student ID: STU031
+Course ID: CRS03
+
+Dear Prof. Alan Turing, Could you please clarify if our COMP1649 normalization documentation needs to include Fourth Normal Form (4NF) multi-valued dependencies, or if Boyce-Codd Normal Form (BCNF) satisfies the exceptional grade criteria in the marking rubric? Thank you.

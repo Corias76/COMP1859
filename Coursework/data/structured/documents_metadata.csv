@@ -1,0 +1,29 @@
+doc_id,title,doc_type,student_id,course_id,department,file_format,file_path,upload_date
+DOC001,Implementing Inverted Index for Academic Information Retrieval,assignment,STU005,CRS01,Computer Science,pdf,data/raw_documents/assignments/DOC001_Assignment_Inverted_Index.pdf,2025-11-15
+DOC002,Comparative Evaluation of TF-IDF versus BM25 on Course Corpora,assignment,STU012,CRS01,Computer Science,pdf,data/raw_documents/assignments/DOC002_Assignment_TFIDF_vs_BM25.pdf,2025-11-15
+DOC003,Supervised Learning Models for Student Academic Dropout Prediction,assignment,STU018,CRS02,Artificial Intelligence,pdf,data/raw_documents/assignments/DOC003_Assignment_Dropout_Prediction.pdf,2025-11-15
+DOC004,Deep Convolutional Neural Networks for Educational Diagram Recognition,assignment,STU025,CRS02,Artificial Intelligence,pdf,data/raw_documents/assignments/DOC004_Assignment_CNN_Diagram_Recognition.pdf,2025-11-15
+DOC005,Relational Database Normalization and B-Tree Index Optimization,assignment,STU031,CRS03,Software Engineering,pdf,data/raw_documents/assignments/DOC005_Assignment_DB_Normalization.pdf,2025-11-15
+DOC006,Benchmarking SQL versus NoSQL MongoDB for Unstructured Student Feedback,assignment,STU039,CRS03,Software Engineering,pdf,data/raw_documents/assignments/DOC006_Assignment_SQL_vs_NoSQL.pdf,2025-11-15
+DOC007,Modern Reactive Web Portal Architecture using React and FastAPI,assignment,STU044,CRS04,Software Engineering,pdf,data/raw_documents/assignments/DOC007_Assignment_React_FastAPI_Portal.pdf,2025-11-15
+DOC008,Securing Academic Web APIs with OAuth2 and JSON Web Tokens,assignment,STU051,CRS04,Software Engineering,pdf,data/raw_documents/assignments/DOC008_Assignment_OAuth2_Security.pdf,2025-11-15
+DOC009,Campus Navigation Optimization using Dijkstra and A-Star Graph Algorithms,assignment,STU058,CRS05,Computer Science,pdf,data/raw_documents/assignments/DOC009_Assignment_Graph_Navigation.pdf,2025-11-15
+DOC010,Empirical Profiling of Sorting Algorithms on Large Student Registries,assignment,STU063,CRS05,Computer Science,pdf,data/raw_documents/assignments/DOC010_Assignment_Sorting_Profiling.pdf,2025-11-15
+DOC011,High-Availability Deployment of Moodle LMS on Kubernetes Clusters,assignment,STU067,CRS06,Data Science,pdf,data/raw_documents/assignments/DOC011_Assignment_Kubernetes_Deployment.pdf,2025-11-15
+DOC012,Serverless Architecture for Automated Assignment Grading with AWS Lambda,assignment,STU070,CRS06,Data Science,pdf,data/raw_documents/assignments/DOC012_Assignment_Serverless_Grading.pdf,2025-11-15
+DOC013,Course Syllabus: COMP1859 Information Retrieval,syllabus,,CRS01,Computer Science,pdf,data/raw_documents/syllabi/DOC013_Syllabus_COMP1859_Information_Retrieval.pdf,2025-09-01
+DOC014,Course Syllabus: COMP1788 Machine Learning Systems,syllabus,,CRS02,Artificial Intelligence,pdf,data/raw_documents/syllabi/DOC014_Syllabus_COMP1788_Machine_Learning.pdf,2025-09-01
+DOC015,Course Syllabus: COMP1649 Database Design & Management,syllabus,,CRS03,Software Engineering,pdf,data/raw_documents/syllabi/DOC015_Syllabus_COMP1649_Database_Design.pdf,2025-09-01
+DOC016,Course Syllabus: COMP1811 Web Programming & Frameworks,syllabus,,CRS04,Software Engineering,pdf,data/raw_documents/syllabi/DOC016_Syllabus_COMP1811_Web_Programming.pdf,2025-09-01
+DOC017,Course Syllabus: COMP1804 Algorithms & Data Structures,syllabus,,CRS05,Computer Science,pdf,data/raw_documents/syllabi/DOC017_Syllabus_COMP1804_Algorithms.pdf,2025-09-01
+DOC018,Course Syllabus: COMP1822 Cloud Computing & DevOps,syllabus,,CRS06,Data Science,pdf,data/raw_documents/syllabi/DOC018_Syllabus_COMP1822_Cloud_DevOps.pdf,2025-09-01
+DOC019,Course Evaluation Feedback: Lecture Pacing and Lab Sessions for COMP1859,feedback,STU005,CRS01,Computer Science,txt,data/raw_documents/feedback/DOC019_Feedback_COMP1859_Pacing.txt,2025-12-01
+DOC020,Course Evaluation Feedback: Vector Space Model Mathematics Support Request,feedback,STU012,CRS01,Computer Science,txt,data/raw_documents/feedback/DOC020_Feedback_COMP1859_Math_Support.txt,2025-12-01
+DOC021,Student Email: Request for Extension on Machine Learning Assignment,email,STU018,CRS02,Artificial Intelligence,txt,data/raw_documents/feedback/DOC021_Email_Extension_Request_STU018.txt,2025-12-01
+DOC022,Student Email: Clarification on Database Normalization Rubric,email,STU031,CRS03,Software Engineering,txt,data/raw_documents/feedback/DOC022_Email_Clarification_Rubric_STU031.txt,2025-12-01
+DOC023,Course Evaluation Feedback: Commendation for Interactive Streamlit Demos,feedback,STU025,CRS02,Artificial Intelligence,txt,data/raw_documents/feedback/DOC023_Feedback_COMP1788_Streamlit_Praise.txt,2025-12-01
+DOC024,Student Email: Attendance Record Correction Notice for COMP1649,email,STU007,CRS03,Software Engineering,txt,data/raw_documents/feedback/DOC024_Email_Attendance_Correction_STU007.txt,2025-12-01
+DOC025,Course Evaluation Feedback: Request for Additional Docker and Kubernetes Labs,feedback,STU067,CRS06,Data Science,txt,data/raw_documents/feedback/DOC025_Feedback_COMP1822_Cloud_Labs.txt,2025-12-01
+DOC026,Student Email: Inquiry Regarding Master Thesis Supervision in Information Retrieval,email,STU005,CRS01,Computer Science,txt,data/raw_documents/feedback/DOC026_Email_Thesis_Supervision_STU005.txt,2025-12-01
+DOC027,Course Evaluation Feedback: Feedback on Web Programming Framework Assignment,feedback,STU044,CRS04,Software Engineering,txt,data/raw_documents/feedback/DOC027_Feedback_COMP1811_Frameworks.txt,2025-12-01
+DOC028,Student Email: Query on Algorithms Exam Format and Dynamic Programming Scope,email,STU058,CRS05,Computer Science,txt,data/raw_documents/feedback/DOC028_Email_Exam_Format_STU058.txt,2025-12-01

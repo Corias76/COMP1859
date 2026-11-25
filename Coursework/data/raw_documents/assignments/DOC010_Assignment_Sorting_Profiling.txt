@@ -1,0 +1,12 @@
+Empirical Profiling of Sorting Algorithms on Large Student Registries
+Student: STU063 | Course: CRS05
+=================================================================
+This study provides empirical time and space profiling of Quicksort,
+Mergesort, Heapsort, and Timsort when ranking academic cohorts by grade
+point average and student IDs.
+Python native Timsort exhibited exceptional stability and adaptive
+performance on partially ordered datasets, completing in O(n) time on
+pre-sorted departmental lists.
+Memory consumption analysis highlighted Mergesort auxiliary buffer
+overhead, while In-place Quicksort demonstrated optimal L1/L2 cache
+locality on modern multi-core CPUs.
